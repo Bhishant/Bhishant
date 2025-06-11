@@ -1,3 +1,8 @@
+<img src="banner.png" alt="GitHub Banner" width="100%" />
+
+
+
+
 # 💫 About Me:
 I am Bhishant, a dedicated B.Tech Computer Science and Engineering (AI/ML) student at JECRC University, with a strong passion for developing innovative digital solutions. As a proficient front-end developer, I specialize in creating intuitive, responsive, and visually appealing user interfaces. My expertise extends to programming in Python and Java, enabling me to build robust applications and tackle complex technical challenges.<br><br>My enthusiasm for Artificial Intelligence and Machine Learning drives me to explore and implement advanced models using frameworks such as TensorFlow and PyTorch. I have hands-on experience in delivering real-world AI projects that integrate cutting-edge technologies. Additionally, I am skilled in working with modern databases like MongoDB and Firebase, ensuring efficient data management and scalability.<br><br>I am committed to continuous learning and thrive on experimenting with new tools, frameworks, and methodologies to push the boundaries of technological innovation. With a focus on creating seamless user experiences and leveraging AI-driven solutions, I aim to contribute meaningfully to the ever-evolving tech landscape.
 
